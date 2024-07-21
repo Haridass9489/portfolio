@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Haridass9489/portfolio/static/css/main.58a0c615.css",
+    "main.js": "/Haridass9489/portfolio/static/js/main.2a4d06d4.js",
+    "static/media/akash.jpeg": "/Haridass9489/portfolio/static/media/akash.c01663df146e27525f28.jpeg",
+    "static/media/HeroImage.jpeg": "/Haridass9489/portfolio/static/media/HeroImage.a0dd82d895fee4791758.jpeg",
+    "static/media/ctf.png": "/Haridass9489/portfolio/static/media/ctf.d43587f752f1d2f88032.png",
+    "static/media/haridass.jpeg": "/Haridass9489/portfolio/static/media/haridass.4e27aa0346d6d30af5cf.jpeg",
+    "static/media/djangoshopkart.jpeg": "/Haridass9489/portfolio/static/media/djangoshopkart.07a6b849207b472c2472.jpeg",
+    "static/media/react.jpg": "/Haridass9489/portfolio/static/media/react.035ea5031fa25d48f62d.jpg",
+    "static/media/marutham.png": "/Haridass9489/portfolio/static/media/marutham.ea7908144865f6de737b.png",
+    "static/media/bala.jpeg": "/Haridass9489/portfolio/static/media/bala.63324a5ee252afa15f1f.jpeg",
+    "static/media/ceg.jpeg": "/Haridass9489/portfolio/static/media/ceg.b8522ad9d9cee9fc1fd5.jpeg",
+    "static/media/tictactoe.jpeg": "/Haridass9489/portfolio/static/media/tictactoe.bb5bb0ae5f110b6e0a5d.jpeg",
+    "index.html": "/Haridass9489/portfolio/index.html",
+    "main.58a0c615.css.map": "/Haridass9489/portfolio/static/css/main.58a0c615.css.map",
+    "main.2a4d06d4.js.map": "/Haridass9489/portfolio/static/js/main.2a4d06d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.2a4d06d4.js"
+  ]
+}
