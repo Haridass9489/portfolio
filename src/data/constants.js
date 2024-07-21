@@ -262,7 +262,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
+    id: 0,
     title: "Shop Kart",
     date: "Dec 2023 - Jan 2024",
     description:
@@ -282,7 +282,7 @@ export const projects = [
     webapp: "https://haridasshms.pythonanywhere.com/",
   },
   {
-    id: 9,
+    id: 1,
     title: "Tic-Tac-Toe",
     date: "Mar 2023 - Mar 2023",
     description:
@@ -299,7 +299,24 @@ export const projects = [
     webapp: "https://haridass9489.github.io/xox/TicTacToe.html",
   },
   {
-    id: 0,
+    id: 2,
+    title: "Portfolio",
+    date: "July 2024 - July 2024",
+    description:"My portfolio features a range of projects, including an AI-powered pest identification system. Explore my social links, view detailed projects, review my experience and education, and get in touch through the contact details.",
+    image:
+      "portfolio.jpeg",
+    tags: [
+      "React.js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+    category: "web app",
+    github: "https://github.com/Haridass9489/portfolio",
+    webapp: "https://haridass-portfolio.netlify.app",
+  },
+  {
+    id: 3,
     title: "Embedded Security Lock System ",
     date: "Jan 2024 - Jan 2024",
     description:
