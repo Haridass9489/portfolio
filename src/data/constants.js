@@ -83,7 +83,7 @@ export const skills = [
       {
         name: "MongoDB",
         image:
-          "mongodb.png  ",
+          "mongodb.png",
       },
     ],
   },
